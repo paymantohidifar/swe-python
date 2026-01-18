@@ -1,3 +1,6 @@
 [submodule "swe-practices-for-ds-book"]
 	path = swe-practices-for-ds-book
 	url = git@github.com:paymantohidifar/swe-practices-for-ds-book.git
+[submodule "python-package-dev"]
+	path = python-package-dev
+	url = git@github.com:paymantohidifar/python-package-dev.git
